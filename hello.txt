@@ -25,4 +25,5 @@ hello wmr i  github
 hello wmr master test
 hello wmr hot-fix
 AASDADSD
-woshilinghuchong -- by lhc
+woshilinghuchong -- by 
+git chongtu test
